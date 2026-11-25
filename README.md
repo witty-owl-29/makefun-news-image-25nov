@@ -2,7 +2,7 @@
 
 Entry for make.fun's **"Sum up 25 November's world news in one image"** bounty
 ($100, 50 places). The program draws a dense newspaper front page for
-Wednesday 25 November 2026 — **52 stories, 6 regions, all first reported
+Wednesday 25 November 2026 — **50 stories, 6 regions, all first reported
 that day** — entirely in code: no image assets, no network, no fonts on disk.
 
 ## The paper

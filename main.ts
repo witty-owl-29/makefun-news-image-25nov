@@ -759,7 +759,7 @@ FONT["–"] = [0, 0, 0, 31, 0, 0, 0];
 // Tags: CONFIRMED = on the record · OFFICIALS = officials say ·
 // REPORTED = news report · FORECAST = scheduled / due today.
 
-const STORY_COUNT = 52;
+const STORY_COUNT = 50;
 
 const HERO = {
   kicker: "THE WAR WIDENS",
